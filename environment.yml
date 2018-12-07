@@ -10,3 +10,4 @@ dependencies:
   - gdal
   - folium
   - psycopg2
+  - geopandas
